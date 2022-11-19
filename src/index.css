@@ -14,12 +14,6 @@ ul {
   display: table;
 }
 
-.status {
-  margin-bottom: 10px;
-  font-weight: bold;
-  font-size: 40px;
-}
-
 .square {
   background: #fff;
   border: 1px solid #999;
@@ -51,3 +45,4 @@ ul {
 .game-info {
   margin-left: 50px;
 }
+
