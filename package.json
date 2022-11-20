@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "tictactoe",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://satabie.github.io/react-tutorial",
@@ -39,3 +39,4 @@
     ]
   }
 }
+
